@@ -13,3 +13,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prasiddhi26&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Prasiddhi26&color=58A6FF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
